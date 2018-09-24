@@ -1,0 +1,17 @@
+Reducer
+tao file index de combineReducer cac reducer con lai
+trong index ta import {combineReducer} from 'redux'
+tiep den ta lai import cac reducer con lai vi du nhu products
+tao mot const appReducer  de combineReducer lai
+export cai appReducer ra ngoai de thang khac su dung
+--- phai co du lieu moi dispatch 
+---middleware la mot cau truc ung dung 
+cac lop nam o giua , giup phan chia nhieu
+giup kiem tra du lieu kiem tra quyen
+
+
+--su dung middleware trong file
+-- truoc khi reducer nhan duoc action
+--- sau khi action da duoc dispatch
+
+loi ich cua middleware giup truy hoan su dispatch
